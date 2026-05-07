@@ -8,12 +8,6 @@ It focuses on practicing layout design and styling by recreating the look and fe
 
 ---
 
-## 🚀 Live Demo
-
-👉 https://alokranjan108.github.io/Apple-Clone-Website/
-
----
-
 ## 📌 Current Features
 
 * 🎨 Apple-inspired UI design
